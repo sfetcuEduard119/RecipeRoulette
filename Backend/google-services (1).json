@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "811915895107",
+    "project_id": "reciperoulette-81534",
+    "storage_bucket": "reciperoulette-81534.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811915895107:android:ee19a02e8a34360d8b4ff6",
+        "android_client_info": {
+          "package_name": "com.reciperoulette"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD70a0HR-fS3cMlbmMP2_dFlaBrGFCWBPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
